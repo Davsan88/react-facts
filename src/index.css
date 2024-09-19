@@ -1,4 +1,11 @@
+* {
+  box-sizing: border-box;
+}
 
+body {
+  margin: 0;
+  font-family: 'Inter';
+}
 
 @media (prefers-color-scheme: light) {
   :root {
