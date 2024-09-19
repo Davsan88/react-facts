@@ -1,9 +1,11 @@
 import React from 'react'
+import '../App.css'
 
 const Navbar = () => {
   return (
     <div>
-      <h1>Navbar goes here</h1>
+      <img src="/logo512.png" alt="React logo" style={{ width: '50px' }}/>
+      <h1>ReactFacts</h1>
     </div>
   )
 }
