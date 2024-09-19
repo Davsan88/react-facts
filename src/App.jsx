@@ -5,10 +5,10 @@ import './App.css'
 
 function App() {
   return (
-    <>
+    <div className="container">
       <Navbar />
       <Main />
-    </>
+    </div>
 
     // <div style={{ margin: '20px'}}>
     //     <img src="/logo512.png" alt="React logo" style={{ width: '50px' }}/>
