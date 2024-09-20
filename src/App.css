@@ -2,4 +2,10 @@
   display: flex;
   align-items: center;
   justify-content: left;
+  color: #61DAFB;
+  background-color: #21222A;
+}
+
+.navBarDiv img {
+  color: #00D8FF;
 }
