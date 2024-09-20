@@ -4,6 +4,9 @@
   justify-content: left;
   background-color: #21222A;
   padding-left: 20px;
+  max-height: 91px;
+  
+ 
 }
 
 .navBarDiv img {
