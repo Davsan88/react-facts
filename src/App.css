@@ -3,19 +3,17 @@
   align-items: center;
   justify-content: space-between;
   background-color: #21222A;
-  padding-left: 30px;
-  padding-right: 30px;
-  min-height: 125px;
+  padding: 30px 25px;
+  min-height: 90px;
   width: 100%;
 }
 
 .navbar__logo {
   display: flex;
   align-items: center;
-  /* justify-content: space-between; */
-  color: #00D8FF;
   gap: 7px;
-  font-size: 1rem;
+  color: #00D8FF;
+  font-size: 1.2rem;
 }
 
 .navbar__logo img {
