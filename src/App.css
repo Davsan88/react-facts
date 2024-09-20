@@ -1,17 +1,23 @@
 .navBarDiv {
   display: flex;
   align-items: center;
-  justify-content: left;
+  justify-content: space-between;
   background-color: #21222A;
   padding-left: 20px;
+  padding-right: 20px;
   max-height: 91px;
-  gap: 7px 
 }
 
-.navBarDiv img {
-  
-}
-
-.navBarDiv h1 {
+.navBarDiv div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   color: #00D8FF;
+  gap: 7px;
 }
+
+.navBarDiv div img {
+  height: 29px; 
+  width: 29px;
+}
+
