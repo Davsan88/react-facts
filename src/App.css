@@ -3,8 +3,8 @@
   align-items: center;
   justify-content: space-between;
   background-color: #21222A;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
   max-height: 91px;
 }
 
@@ -14,6 +14,7 @@
   justify-content: space-between;
   color: #00D8FF;
   gap: 7px;
+  font-size: 22px;
 }
 
 .navBarDiv div img {
