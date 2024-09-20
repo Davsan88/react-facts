@@ -1,4 +1,4 @@
-.navBarDiv {
+.navbar {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -9,7 +9,7 @@
   width: 100%;
 }
 
-.navBarDiv div {
+.navbar__logo {
   display: flex;
   align-items: center;
   /* justify-content: space-between; */
@@ -18,12 +18,12 @@
   font-size: 1rem;
 }
 
-.navBarDiv div img {
+.navbar__logo img {
   height: 3rem; 
   width: 3rem;
 }
 
-.navBarDiv h3 {
+.navbar h3 {
   color: #FFFFFF;
   font-size: 1.2rem;
 }
