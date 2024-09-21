@@ -25,3 +25,14 @@
   color: #FFFFFF;
   font-size: 1.2rem;
 }
+
+
+.main {
+  display: flex;
+  flex-direction: column;
+  color: #FFFFFF;
+  background-color: #282D35;
+  padding: 30px 25px;
+  min-height: 459px;
+  width: 100%;
+}
