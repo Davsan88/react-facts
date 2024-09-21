@@ -47,6 +47,7 @@
 .main__heading {
   margin: 0;
   font-size: 3rem;
+  letter-spacing: -0.05em;
 }
 
 .main__facts-list {
@@ -59,4 +60,9 @@
   padding-left: 60px;
   font-size: 1.2rem;
   font-weight: 300;
+}
+
+.main__facts-list > li {
+  line-height: 25px;
+  padding-block: 10px;
 }
