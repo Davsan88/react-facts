@@ -37,7 +37,6 @@
   flex-direction: column;
   color: #FFFFFF;
   padding: 57px 35px 150px;
-  min-height: 459px;
   background-color: #282D35;
   background-image: url('/react-svgrepo-1024.png');
   background-repeat: no-repeat;
@@ -53,10 +52,6 @@
 }
 
 .main__facts-list {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  min-height: 225px;
   max-width: 60%;
   padding-left: 60px;
   font-size: 1.2rem;
