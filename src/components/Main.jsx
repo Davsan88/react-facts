@@ -3,7 +3,7 @@ import '../App.css'
 
 const Main = () => {
   return (
-    <div className="main">
+    <main className="main">
       <h1 className="main__heading">Fun facts about React</h1>
       <ul className="main__facts-list">
         <li>Was first released in 2013</li>
@@ -12,7 +12,7 @@ const Main = () => {
         <li>Is maintained by Facebook</li>
         <li>Powers thousands of enterprise apps, including mobile apps</li>
       </ul>
-    </div>
+    </main>
   )
 }
 
