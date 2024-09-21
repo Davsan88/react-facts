@@ -32,7 +32,25 @@
   flex-direction: column;
   color: #FFFFFF;
   background-color: #282D35;
-  padding: 30px 25px;
+  padding: 30px 40px;
   min-height: 459px;
   width: 100%;
+  
+  
+}
+
+.main__heading {
+  font-size: 3rem;
+}
+
+.main__facts-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 225px;
+  height: auto;
+  max-width: 60%;
+  padding-left: 60px;
+  font-size: 1.2rem;
+  font-weight: 300;
 }
