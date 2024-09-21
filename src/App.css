@@ -40,8 +40,11 @@
   padding: 57px 35px 150px;
   min-height: 459px;
   width: 100%;
-  
-  
+  background-image: url('/react-svgrepo-1024.png');
+  background-repeat: no-repeat;
+  background-position: 175% center;
+  background-size: 60%;
+  overflow: hidden;
 }
 
 .main__heading {
@@ -63,7 +66,6 @@
 }
 
 .main__facts-list > li {
-  /* line-height: 25px; */
   padding-block: 5px;
 }
 
