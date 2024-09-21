@@ -37,7 +37,7 @@
   flex-direction: column;
   color: #FFFFFF;
   background-color: #282D35;
-  padding: 50px 40px 150px;
+  padding: 57px 35px 150px;
   min-height: 459px;
   width: 100%;
   
@@ -45,6 +45,7 @@
 }
 
 .main__heading {
+  margin: 0;
   font-size: 3rem;
 }
 
