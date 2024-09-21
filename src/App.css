@@ -63,6 +63,11 @@
 }
 
 .main__facts-list > li {
-  line-height: 25px;
-  padding-block: 10px;
+  /* line-height: 25px; */
+  padding-block: 5px;
+}
+
+.main__facts-list > li::marker {
+  font-size: 2.2rem;
+  color: #61DAFB;
 }
